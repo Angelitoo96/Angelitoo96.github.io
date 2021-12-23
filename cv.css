@@ -1,0 +1,31 @@
+#container{
+    background-color:rgb(240, 246, 246);
+}
+  #foto{
+      height: 8em;
+      float: left;
+      }
+  #nombre{
+
+text-align: justify;
+color: brown;
+text-transform: uppercase;
+
+}
+#experiencia{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: brown;
+  text-decoration: underline;
+  background-color: aquamarine;
+}
+#educacion{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: brown;
+text-decoration: underline;
+background-color: aquamarine;
+}
+#descripcion{
+  text-align: justify;
+  padding-bottom: 3%;
+  width: 50%;
+}
